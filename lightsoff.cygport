@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="lightsoff"
+VERSION=3.8.0
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Lights Off game"
+DESCRIPTION="Lights Off is a puzzle played on an 5X5 grid with the aim to turn
+off all the lights. Each click on a tile toggles the state of the clicked tile
+and its non-diagonal neighbors."
